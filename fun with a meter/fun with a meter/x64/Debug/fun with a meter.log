@@ -1,0 +1,5 @@
+﻿  fun with a meter.cpp
+C:\Users\n1249\source\repos\fun with a meter\fun with a meter\fun with a meter.cpp(40,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\n1249\source\repos\fun with a meter\fun with a meter\fun with a meter.cpp(41,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\n1249\source\repos\fun with a meter\fun with a meter\fun with a meter.cpp(15,10): warning C4101: ch: неиспользованная локальная переменная
+  fun with a meter.vcxproj -> C:\Users\n1249\source\repos\fun with a meter\x64\Debug\fun with a meter.exe

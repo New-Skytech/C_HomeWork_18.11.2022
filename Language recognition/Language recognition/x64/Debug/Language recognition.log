@@ -1,0 +1,3 @@
+﻿  Language recognition.cpp
+C:\Users\n1249\source\repos\Language recognition\Language recognition\Language recognition.cpp(25,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Language recognition.vcxproj -> C:\Users\n1249\source\repos\Language recognition\x64\Debug\Language recognition.exe
